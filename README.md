@@ -20,7 +20,8 @@ Export cleaned **data to .csv**
 ### Examples output
 
 ![output_rga](https://github.com/user-attachments/assets/a3d600a8-9789-4ec1-af3d-81cfcd9314bf)
-![rga_output-2](https://github.com/user-attachments/assets/a1222ca8-1167-462b-81a9-0aeb5c27c30e)
+![image](https://github.com/user-attachments/assets/45703fbc-c952-40b5-bf07-ebc74507822d)
+
 
 ---
 
