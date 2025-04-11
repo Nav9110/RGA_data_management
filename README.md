@@ -2,7 +2,7 @@
 Data management for Residual Gas Analysis (RGA)
 
 This Python script allows you to extract specific columns from a .txt file, convert a datetime column into elapsed time in seconds, preview key measurements, and export the selected data to a .csv file.
-
+test
 
 ## 🚀 Features
 Read **structured data from .txt files**
